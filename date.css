@@ -1,0 +1,78 @@
+body {
+    background: turquoise;
+}
+
+.clock {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.clock2 {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.clock span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+
+.clock2 span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+
+.long {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.long span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+
+.Mil {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.Mil span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+
+.Slash {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.Slash span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+
+.Euro {
+
+    color: rgb(238, 146, 27);
+    font-family: Arial;
+    display: inline;
+}
+
+.Euro span {
+    padding: 10px;
+    background: #e7b6b6;
+}
+label{
+    color:  rgb(238, 146, 27);;
+}
